@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.12">
+  <compounddef id="indexpage" kind="page">
+    <compoundname>index</compoundname>
+    <title>Documentación de la bancada HVPM</title>
+    <detaileddescription>
+<sect1 id="index_1intro_sec">
+<title>Arquitectura del sistema</title>
+<para>Toda esta documentación corresponde al código VHDL relativo a las FPGAs. La arquitectura del sistema resultaría: <image type="html" name="esquema_trabajo.jpg"></image>
+ <linebreak/>
+<verbatim>Nota: A la hora de escribir código VHDL asegura que el editor codifica los
+caracteres como UTF-8.
+</verbatim> <linebreak/>
+</para></sect1>
+    </detaileddescription>
+  </compounddef>
+</doxygen>

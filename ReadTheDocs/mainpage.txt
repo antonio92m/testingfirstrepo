@@ -1,0 +1,20 @@
+/*! \mainpage Documentación de la bancada HVPM
+ *
+ * \section intro_sec Arquitectura del sistema
+ *
+ * Toda esta documentación corresponde al código VHDL relativo a las FPGAs.
+ * La arquitectura del sistema resultaría:
+ * \image html esquema_trabajo.jpg
+ * \n
+ * \verbatim
+  Nota: A la hora de escribir código VHDL asegura que el editor codifica los
+  caracteres como UTF-8.
+  \endverbatim
+ * \n
+ */
+
+ * \section install_sec Installation
+ *
+ * \subsection step1 Step 1: Opening the box
+ *
+ * etc...

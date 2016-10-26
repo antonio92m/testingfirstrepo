@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.12">
+  <compounddef id="mainpage_8txt" kind="file" language="C++">
+    <compoundname>mainpage.txt</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/>*<sp/>\section<sp/>install_sec<sp/>Installation</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/>*</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/>*<sp/>\subsection<sp/>step1<sp/>Step<sp/>1:<sp/>Opening<sp/>the<sp/>box</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/>*</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/>*<sp/>etc...</highlight></codeline>
+    </programlisting>
+    <location file="mainpage.txt"/>
+  </compounddef>
+</doxygen>
